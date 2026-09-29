@@ -7,6 +7,16 @@ Three Amigos
 
 Data Amigos Pro transforms an online book catalog into clean, organized data and a searchable visual catalog. Built under the Three Amigos brand, it uses the Beast Pro scraping engine to deliver practical outputs for analysis, reporting, and product browsing.
 
+## 📸 Project Showcase
+
+![Data Amigos Pro customer-facing catalog](images/data-amigos-hero.png)
+
+Data Amigos Pro customer-facing catalog with 1,000 products, 50 categories, search, filters, pricing, and branding.
+
+![Source product page from Books to Scrape](images/source-product-page.png)
+
+Example source product page from the public Books to Scrape practice site.
+
 ## Problem it solves
 
 Manually collecting product information across dozens of pages takes time and can produce duplicate records, inconsistent categories, and broken links. Data Amigos Pro automates collection and cleanup, providing spreadsheet-ready data and a customer-friendly HTML catalog from the same dataset.
