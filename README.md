@@ -87,6 +87,30 @@ With Python and pip installed, install the dependencies from a terminal:
 pip install aiohttp beautifulsoup4 pandas openpyxl tqdm
 ```
 
+## Beast Pro V2 (recommended)
+
+Beast Pro V2 adds test-sized runs, safe checkpoint and resume support, and a professional Excel Summary sheet while preserving the CSV, Excel, and searchable HTML outputs.
+
+Install the exact project dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+Run a quick two-page test:
+
+```bash
+python beast_pro_v2.py --pages 2 --limit 20 --fast --output-dir outputs-v2-test
+```
+
+Resume later without losing the complete, de-duplicated listing data:
+
+```bash
+python beast_pro_v2.py --pages 2 --resume --fast --output-dir outputs-v2-test
+```
+
+See [README-v2.md](README-v2.md) for complete setup, options, checkpoint behavior, and validation results. The original `beast_pro_final.py` remains available for comparison.
+
 ## Run command
 
 From the `beastpro` project folder, run:
