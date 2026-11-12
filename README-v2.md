@@ -55,7 +55,7 @@ v1 and v2 side by side.
 
 | File | Change |
 |---|---|
-| `beast_pro_v2.py` | **NEW.** Complete v2 program, 1,975 lines. All v1 features preserved. |
+| `beast_pro_v2.py` | **NEW.** Complete v2 program, 1,974 lines. All v1 features preserved. |
 | `beast_pro_final.py` | **NOT CHANGED.** Kept in the folder for comparison only. |
 | `requirements.txt` | **NEW.** `aiohttp`, `beautifulsoup4`, `pandas`, `openpyxl`, `tqdm`, `lxml`. |
 | `README-v2.md` | **NEW.** This file — install and test instructions. |

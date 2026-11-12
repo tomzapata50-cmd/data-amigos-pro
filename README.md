@@ -148,7 +148,10 @@ USD prices are converted values. If the fallback exchange rate is used, those va
 ```text
 beastpro/
 ├── beast_pro_final.py
+├── beast_pro_v2.py
+├── requirements.txt
 ├── README.md
+├── README-v2.md
 └── outputs/
     ├── books.csv
     ├── books.xlsx
